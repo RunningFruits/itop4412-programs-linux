@@ -1,0 +1,6 @@
+1.在虚拟终端中使用date命令来查看和设置系统时间 查看系统时钟的操作： # date 
+设置系统时钟的操作： # date 100110202016.00  
+通用的设置格式： # date 月日时分年.秒 
+3.同步系统时钟和硬件时钟，使用hwclock命令来同步系统时钟和硬件时钟。
+系统时钟和硬件时钟同步： # hwclock --systohc  
+表示SYStem clock to Hardware Clock 

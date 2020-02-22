@@ -1,0 +1,14 @@
+修改三处
+
+/home/topeet/android4.0/iTop4412_Kernel_3.0/arch/arm/mach-exynos/mach-itop4412.c
+
+/home/topeet/android4.0/iTop4412_Kernel_3.0/drivers/char/Kconfig 
+
+/home/topeet/android4.0/iTop4412_Kernel_3.0/drivers/char/Makefile
+
+
+itop4412_timer_list.c为驱动程序
+
+
+itop4412_timer_list_test.c应用程序
+
